@@ -14,7 +14,7 @@
     </parent>
     <groupId>org.cb</groupId>
     <artifactId>cb-spring-pet-clinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <name>cb-spring-pet-clinic</name>
     <description>Coding Book Petcliinic Project</description>
 
@@ -46,6 +46,6 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/CodingBookOrg/cb-spring-pet-clinic.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>cb-spring-pet-clinic-0.0.2</tag>
   </scm>
 </project>
