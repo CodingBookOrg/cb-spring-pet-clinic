@@ -16,7 +16,7 @@
     <artifactId>cb-spring-pet-clinic</artifactId>
     <version>0.0.3-SNAPSHOT</version>
     <name>cb-spring-pet-clinic</name>
-    <description>Coding Book Petcliinic Project</description>
+    <description>Coding Book Petclinic Project</description>
 
     <properties>
         <java.version>11</java.version>
