@@ -1,5 +1,5 @@
 package org.cb.spring.petclinic.services;
 
-import org.cb.spring.petclinic.model.Pet;
+import org.cb.spring.petclinic.model.Vet;
 
-public interface IVetService extends ICrud<Pet, Long> {}
+public interface IVetService extends ICrud<Vet, Long> {}
